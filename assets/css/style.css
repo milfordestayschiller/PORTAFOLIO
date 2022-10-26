@@ -1,0 +1,106 @@
+ body * {
+     margin: 0;
+     border: 0;
+     padding: 0;
+     font-family: 'Open Sans', sans-serif;
+ }
+
+ .fondo {
+     background-color: #e83e8c !important;
+
+ }
+
+ h1 {
+     padding: 50px;
+     text-align: center;
+     color: #707070;
+     font-size: 40px;
+     font-weight: 400;
+ }
+
+ .portafolio {
+     text-align: center;
+ }
+
+ h2 {
+     font-weight: 400;
+     font-size: 30px;
+ }
+
+ .navbar-toggler {
+     position: relative;
+     left: 30px;
+ }
+
+ .logo-proyecto {
+     max-height: 60px;
+ }
+
+ .card {
+     margin: 0 auto;
+     float: none;
+     margin-bottom: 23px;
+ }
+
+ .creditos h2 {
+     color: #fff;
+     font-weight: 400;
+ }
+
+ .container2 {
+     padding: 40px;
+ }
+
+ .fa-iconos-font {
+     right: 40px;
+     font-size: 2em;
+ }
+
+ .card-text,
+ p {
+     font-weight: 400;
+     font-size: 16px;
+     opacity: 1;
+     color: #373A3C;
+ }
+
+ .list-group-item {
+     font-weight: 400;
+     font-size: 12.5px;
+     opacity: 1;
+     color: #373A3C;
+ }
+
+ .card-link {
+     font-weight: 400;
+     font-size: 12.5px;
+     opacity: 1;
+     text-decoration: none;
+ }
+
+ .section-icons {
+     color: white;
+     font-size: 2.5em;
+
+ }
+
+
+ .footer {
+     padding: 20px;
+     background-color: #e83e8c;
+
+ }
+
+
+ .fa-github {
+     color: white !important;
+ }
+
+ .fa-linkedin {
+     color: white !important;
+ }
+
+ .contacto {
+     font-size: 20px;
+     color: white
+ }
